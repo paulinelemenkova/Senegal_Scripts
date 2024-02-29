@@ -1,0 +1,286 @@
+#################### CLUSTER (Fri Jul 28 19:59:34 2023) ####################
+
+Location: Senegal
+Mapset:   PERMANENT
+Group:    L8_2018f
+Subgroup: res_30m
+ L8_2018f_01@PERMANENT
+ L8_2018f_02@PERMANENT
+ L8_2018f_03@PERMANENT
+ L8_2018f_04@PERMANENT
+ L8_2018f_05@PERMANENT
+ L8_2018f_06@PERMANENT
+ L8_2018f_07@PERMANENT
+Result signature file: cluster_L8_2018f
+
+Region
+  North:   1715145.00  East:    435015.00
+  South:   1481685.00  West:    209355.00
+  Res:          30.00  Res:         30.00
+  Rows:          7782  Cols:         7522  Cells: 58536204
+Mask: no
+
+Cluster parameters
+  Nombre de classes initiales: 	10
+ Minimum class size:           17
+ Minimum class separation:     0.000000
+ Percent convergence:          98.000000
+ Maximum number of iterations: 30
+
+ Row sampling interval:        77
+ Col sampling interval:        75
+
+Sample size: 7009 points
+
+
+means and standard deviations for 7 bands
+
+moyennes 8857.44 9492.87 10953.4 12229.7 15198.4 18028.8 15884.1
+écart-type 1621.26 1786.57 2482.6 3723.54 5842.65 8100.61 6660.89
+
+
+initial means for each band
+
+classe 1    7236.18 7706.31 8470.82 8506.2 9355.74 9928.24 9223.22
+classe 2    7596.46 8103.32 9022.51 9333.66 10654.1 11728.4 10703.4
+classe 3    7956.74 8500.34 9574.2 10161.1 11952.5 13528.5 12183.6
+classe 4    8317.02 8897.35 10125.9 10988.6 13250.8 15328.6 13663.8
+classe 5    8677.3 9294.36 10677.6 11816 14549.2 17128.8 15144
+classe 6    9037.58 9691.38 11229.3 12643.5 15847.6 18928.9 16624.2
+classe 7    9397.86 10088.4 11781 13470.9 17145.9 20729.1 18104.4
+classe 8    9758.14 10485.4 12332.6 14298.4 18444.3 22529.2 19584.6
+classe 9    10118.4 10882.4 12884.3 15125.8 19742.7 24329.3 21064.8
+classe 10   10478.7 11279.4 13436 15953.3 21041 26129.5 22545
+
+
+class means/stddev for each band
+
+
+class 1 (2403)
+moyennes 7025.72 7388.7 7878.26 7537.53 7520.7 7696.79 7654.33
+écart-type 876.124 788.054 722.17 679.73 615.7 351.733 278.397
+
+class 2 (172)
+moyennes 8244.99 8643.94 9646.46 9683.51 13048 10536.1 9337.4
+écart-type 607.341 538.888 574.945 658.593 1473.34 507.789 685.588
+
+class 3 (54)
+moyennes 8434.26 9040.37 10488.3 10949.8 13355.8 12442.6 10824.8
+écart-type 1110.78 998.131 932.028 1023.89 1418.08 801.709 1082.7
+
+class 4 (54)
+moyennes 8482.3 9044.26 10774 11464.2 14641.1 14702 12465.4
+écart-type 907.771 1145.32 855.87 991.749 1398.46 860.045 1151.78
+
+class 5 (108)
+moyennes 8777.68 9379.79 10667.9 11668.6 15965.4 17160.8 14226.1
+écart-type 853.549 797.446 671.475 816.731 1669.22 1007.64 1139.25
+
+class 6 (206)
+moyennes 8961.07 9666.94 11222.5 12566.3 16796.6 19213.9 15756.8
+écart-type 753.46 661.341 727.188 777.205 1234.98 854.702 874.231
+
+class 7 (398)
+moyennes 9340.86 10100.9 11741.2 13426.2 17780.8 21026.7 17500.4
+écart-type 831.339 799.109 701.629 684.796 833.681 933.273 783.303
+
+class 8 (836)
+moyennes 9615.52 10387.7 12217.9 14224.5 18744.5 22966.9 19275.4
+écart-type 484.651 457.958 538.072 601.26 827.493 771.913 901.151
+
+class 9 (1315)
+moyennes 9896.03 10698.6 12709.9 15019.5 19718.5 24587.7 21016.1
+écart-type 457.581 436.544 473.69 548.46 717.103 666.677 920.163
+
+class 10 (1463)
+moyennes 10460.6 11305.4 13649.4 16332.8 21077.1 26573.8 23634.1
+écart-type 1034.73 1026.42 1039.6 1120.3 1101.26 1037.7 1333.34
+
+Distribution des classes
+       2403        172         54         54        108
+        206        398        836       1315       1463
+
+######## iteration 1 ###########
+10 classes, 93.94% points stable
+Distribution des classes
+       2346        222         61         56        112
+        216        412        858       1464       1262
+
+######## iteration 2 ###########
+10 classes, 95.86% points stable
+Distribution des classes
+       2327        236         65         58        117
+        220        429        909       1527       1121
+
+######## iteration 3 ###########
+10 classes, 96.66% points stable
+Distribution des classes
+       2320        242         66         58        118
+        233        433        985       1528       1026
+
+######## iteration 4 ###########
+10 classes, 97.05% points stable
+Distribution des classes
+       2317        244         67         58        120
+        245        450       1035       1522        951
+
+######## iteration 5 ###########
+10 classes, 97.65% points stable
+Distribution des classes
+       2315        246         67         58        124
+        254        468       1066       1513        898
+
+######## iteration 6 ###########
+10 classes, 97.87% points stable
+Distribution des classes
+       2314        246         68         59        126
+        262        492       1091       1490        861
+
+######## iteration 7 ###########
+10 classes, 97.72% points stable
+Distribution des classes
+       2314        247         67         59        132
+        265        527       1108       1468        822
+
+######## iteration 8 ###########
+10 classes, 97.73% points stable
+Distribution des classes
+       2314        247         67         60        139
+        272        550       1137       1431        792
+
+######## iteration 9 ###########
+10 classes, 97.82% points stable
+Distribution des classes
+       2314        247         67         61        148
+        283        565       1155       1408        761
+
+######## iteration 10 ###########
+10 classes, 97.87% points stable
+Distribution des classes
+       2314        247         67         63        159
+        288        587       1166       1382        736
+
+######## iteration 11 ###########
+10 classes, 97.97% points stable
+Distribution des classes
+       2314        247         67         65        166
+        300        600       1180       1362        708
+
+######## iteration 12 ###########
+10 classes, 97.97% points stable
+Distribution des classes
+       2314        247         67         67        174
+        306        618       1199       1336        681
+
+######## iteration 13 ###########
+10 classes, 97.82% points stable
+Distribution des classes
+       2314        247         67         68        183
+        320        631       1215       1311        653
+
+######## iteration 14 ###########
+10 classes, 97.67% points stable
+Distribution des classes
+       2314        247         67         71        189
+        339        649       1216       1294        623
+
+######## iteration 15 ###########
+10 classes, 97.75% points stable
+Distribution des classes
+       2314        247         67         78        187
+        366        664       1214       1271        601
+
+######## iteration 16 ###########
+10 classes, 97.86% points stable
+Distribution des classes
+       2314        247         67         83        191
+        375        698       1210       1241        583
+
+######## iteration 17 ###########
+10 classes, 97.67% points stable
+Distribution des classes
+       2314        247         68         84        198
+        392        724       1208       1214        560
+
+######## iteration 18 ###########
+10 classes, 97.77% points stable
+Distribution des classes
+       2314        247         69         85        203
+        409        744       1220       1180        538
+
+######## iteration 19 ###########
+10 classes, 98.13% points stable
+Distribution des classes
+       2314        246         70         87        207
+        420        771       1218       1157        519
+
+########## final results #############
+10 classes (convergence=98.1%)
+
+class separability matrix
+
+
+         1     2     3     4     5     6     7     8     9    10
+
+  1      0
+  2    2.1     0
+  3    2.8   0.9     0
+  4    3.8   1.6   0.9     0
+  5    5.5   2.7   1.8   0.8     0
+  6    7.3   3.7   2.6   1.6   0.8     0
+  7    9.7   4.9   3.6   2.4   1.7   0.8     0
+  8   11.2   5.8   4.3   3.1   2.4   1.5   0.8     0
+  9   13.6   6.9   5.2   3.9   3.2   2.4   1.6   0.9     0
+ 10    9.3   5.9   4.6   3.6   3.1   2.5   2.0   1.4   0.9     0
+
+
+class means/stddev for each band
+
+
+class 1 (2314)
+moyennes 6973.65 7333.17 7802.18 7449.64 7428.58 7651.15 7624.97
+écart-type 843.931 743.306 609.592 501.577 345.569 249.854 217.016
+
+class 2 (246)
+moyennes 8252.11 8657.06 9652.88 9648.4 12056.2 9895.76 8929.32
+écart-type 557.912 494.393 540.394 611.288 2106.96 900.212 650.071
+
+class 3 (70)
+moyennes 8590.16 9205.93 10637.7 11065.5 12784.4 12166.4 10782.5
+écart-type 1067.97 929.601 879.515 980.828 1360.11 857.334 1097.74
+
+class 4 (87)
+moyennes 8600 9184.85 10676.8 11445.1 15283.8 15305.9 12848.6
+écart-type 912.171 1068.36 783.743 980.84 1744.45 1027.32 1099.21
+
+class 5 (207)
+moyennes 8858.84 9488.23 10930.6 12115.5 16366.1 18473.8 15114.5
+écart-type 676.137 631.376 684.995 773.703 1487.35 981.082 958.443
+
+class 6 (420)
+moyennes 9293.96 10069.1 11712.3 13349.1 17673.2 20665.3 17190.3
+écart-type 922.304 860.24 762.823 749.532 931.792 978.143 799.221
+
+class 7 (771)
+moyennes 9572.57 10340.5 12145.3 14124.8 18643 22810.7 19095.9
+écart-type 469.21 442.231 519.984 585.987 852.925 740.509 837.032
+
+class 8 (1218)
+moyennes 9858.67 10659.5 12653.4 14932 19617.3 24380.3 20745.2
+écart-type 484.521 463.705 507.611 581.417 763.351 679.252 844.481
+
+class 9 (1157)
+moyennes 10151.4 10976 13175.7 15709.2 20443.3 25921.2 22794.1
+écart-type 308.902 292.289 375.14 497.641 661.54 633.314 862.877
+
+class 10 (519)
+moyennes 10972.1 11840.8 14389.4 17280.3 21993 27486 24867.4
+écart-type 1562.41 1542.91 1405.19 1333.89 1222.02 1065.41 1187.97
+
+
+
+#################### CLASSES ####################
+
+10 classes, 98.13% points stable
+
+######## CLUSTER END (Fri Jul 28 19:59:34 2023) ########
